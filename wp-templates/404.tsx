@@ -14,7 +14,7 @@ export default function Page(): JSX.Element {
           <div>
             <div>
               <p>
-                The web page you were looking for does not exist or is no longer
+                The page you were looking for does not exist or is no longer
                 available.
               </p>
             </div>
